@@ -9,9 +9,9 @@ https://support.rstudio.com/hc/en-us/articles/200486468-Authoring-R-Presentation
 ) pitching your algorithm and app as if you were presenting to your boss or an investor.
 
 
-Review criteria
-less 
-Data Product
+# Review criteria
+ 
+## Data Product
 
 Does the link lead to a Shiny app with a text input box that is running on shinyapps.io?
 
