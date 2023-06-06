@@ -13,7 +13,7 @@ https://support.rstudio.com/hc/en-us/articles/200486468-Authoring-R-Presentation
  
 ## Data Product
 
-Does the link lead to a Shiny app with a text input box that is running on shinyapps.io?
+- Does the link lead to a Shiny app with a text input box that is running on shinyapps.io?
 
 Does the app load to the point where it can accept input?
 
